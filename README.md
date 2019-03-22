@@ -7,4 +7,4 @@ Learn with fun ;)
 If the repo doesn't render:
 https://nbviewer.jupyter.org/github/SKS54/Pokemon_visualisation/blob/master/pokemon_.ipynb
 
-DataSet : https://www.kaggle.com/abcsds/pokemon
+Dataset : https://www.kaggle.com/abcsds/pokemon
